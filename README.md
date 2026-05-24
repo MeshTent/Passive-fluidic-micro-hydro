@@ -26,7 +26,7 @@ Optimized for ultra-low head constraints (such as strict UK temporary structural
 
 | Component | Specification / Dimension | Function |
 | :--- | :--- | :--- |
-| **Header Tank** | 1,000-Litre Standard IBC Tote | Fluid buffer storage; provides a 100-second cycle window at maximum flow. |
+| **Header Tank** | 1,000-Litre Standard IBC sized colapsible water butt Tote | Fluid buffer storage; provides a 100-second cycle window at maximum flow. |
 | **Mariotte Air Intake** | 5 cm (2-inch) Sealed PVC Pipe | Maintains a steady vacuum seal and constant pressure head without internal sloshing. |
 | **Downpipe** | 15 cm to 20 cm (6 to 8-inch) Pipe | Houses the falling water column; acts as the primary fluid inductor ($L$). |
 | **Constriction** | 3.5 cm to 5 cm (1.5 to 2-inch) Reduction | Throttles flow to build up threshold pressure against the check valve. |
@@ -37,6 +37,6 @@ Optimized for ultra-low head constraints (such as strict UK temporary structural
 
 ## 🌍 Humanitarian Scaling Potential (e.g., West Africa)
 In rural, off-grid environments where height restrictions are absent, the system scales vertically to become highly energetic:
-1. **Elevated Stacking:** Stacking two locally sourced 200-litre blue drums on an earth mound establishes a **2.5 to 3-metre head height**.
+1. **Elevated Stacking:** 2 collapsible 200l water butts  on an earth mound establishes a **2.5 to 3-metre head height**.
 2. **Kinetic Multiplier:** Increasing the drop from 50 cm to 3 m increases kinetic energy output roughly **six-fold** ($v = \sqrt{2gh}$), enabling the use of high-efficiency, compact Pelton or Turgo micro-turbines.
 3. **Passive Purification:** The natural hydrostatic pressure from a 3 m head is sufficient to push discharged water through ceramic filters, providing clean drinking water and village lighting simultaneously.
