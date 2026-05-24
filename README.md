@@ -37,6 +37,6 @@ Optimized for ultra-low head constraints (such as strict UK temporary structural
 
 ## 🌍 Humanitarian Scaling Potential (e.g., West Africa)
 In rural, off-grid environments where height restrictions are absent, the system scales vertically to become highly energetic:
-1. **Elevated Stacking:** 2 collapsible 200l water butts  on an earth mound establishes a **2.5 to 3-metre head height**.
+1. **Elevated Stacking:** 4 collapsible 1000l water butts  on an earth mound establishes a **2.5 to 3-metre head height**.
 2. **Kinetic Multiplier:** Increasing the drop from 50 cm to 3 m increases kinetic energy output roughly **six-fold** ($v = \sqrt{2gh}$), enabling the use of high-efficiency, compact Pelton or Turgo micro-turbines.
-3. **Passive Purification:** The natural hydrostatic pressure from a 3 m head is sufficient to push discharged water through ceramic filters, providing clean drinking water and village lighting simultaneously.
+3. **Passive Purification:** The natural hydrostatic pressure from a 3 m head is sufficient to push discharged water through ceramic filters,if they are used, in providing clean drinking water and village lighting simultaneously , otherwise it can be used for electricity and lighting .
