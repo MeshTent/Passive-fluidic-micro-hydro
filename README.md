@@ -1,6 +1,8 @@
 # Passive-fluidic-micro-hydro
 A passive fluidic microhydro system for electricity generation 
-# Passive Macro-Scale Fluidic Relaxation Oscillator for Micro-Hydro Power
+# Passive Macro-Scale Fluidic Relaxation Oscillator for Micro-Hydro Power 
+
+Just to note water butts were used because they have an open grill and are colapsible,  allowing a constant pressure to be permanently maintained 
 
 An open-source, non-electronic fluidic logic system designed to harvest low-flow water sources to generate continuous micro-hydro power. This repository serves as a permanent public disclosure of "Prior Art" to keep this technology freely available for humanitarian use globally.
 
